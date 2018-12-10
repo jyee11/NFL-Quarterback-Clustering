@@ -2,4 +2,4 @@
 
 The following project encompasses using Principal Component Analysis and K-Means Clustering to see if we can try to classify and group NFL quarterbacks based on their statistics.
 
-Presentation link: 
+Presentation link: \href{<url>}{https://youtu.be/qRk2l85C9IM}
